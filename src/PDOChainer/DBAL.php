@@ -7,7 +7,7 @@
  * See lincense text in LICENSE file.
  *
  * (c) Evgeniy Udodov <flr.null@gmail.com>
- * (c) John Brittain <jb@jw3b.com>
+ * (c) John Brittain  <jb@jw3b.com> Yohn
  */
 
 namespace PDOChainer;
